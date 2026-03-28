@@ -1,2 +1,2 @@
-# hello-world-
+# Python mini projects-
 To practice : GitHub
